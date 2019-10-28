@@ -11,7 +11,7 @@ html, body {
   .jumbotron {
       background-image: url("https://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg");
       background-size: cover;
-    height: 800px;
+      height: 800px;
   }
   
   .header {
@@ -22,7 +22,6 @@ html, body {
       width: 100%;
       display: table;
       align-content: center;
-
   }
 
   .header li {
